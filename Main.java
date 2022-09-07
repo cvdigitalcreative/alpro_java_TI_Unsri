@@ -6,10 +6,5 @@ class Main {
     System.out.println("Hello world 2");
     
   }
-
-  static void Mymethod(){
-    
-  }
-
   
 }
