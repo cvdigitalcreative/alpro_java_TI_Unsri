@@ -1,0 +1,3 @@
+class Tugas_1{
+  
+}

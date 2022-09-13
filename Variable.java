@@ -16,7 +16,10 @@ class Variable{
     System.out.println("Operasi MTK di dalam String");
     System.out.println(3+angka2);
 
-    
+    double doble_variable = angka_1;
+
+    System.out.println(doble_variable);
+
     
   }
   
